@@ -1,6 +1,10 @@
-## Welcome to Victoria's CS193 Lab
+## Victoria's First CS193 Lab
 
-Hello!!!
+Favorite things about Purdue CS193
+- Learning useful tools to become a better CS student
+- Fun, enthusiastic environment
+- Using the iClicker
+- Meeting new people
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
